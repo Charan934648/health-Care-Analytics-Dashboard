@@ -1,0 +1,10 @@
+name: healthcaredashboard
+title:
+username: charan37
+account: charan37
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15921522
+bundleId: 11109370
+url: https://charan37.shinyapps.io/healthcaredashboard/
+version: 1
